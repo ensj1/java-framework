@@ -1,0 +1,4 @@
+.allure/
+.pytest_cache/
+.vscode/
+target/
